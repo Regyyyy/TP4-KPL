@@ -1,0 +1,15 @@
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\bin\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.exe
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\bin\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.deps.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\bin\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.runtimeconfig.json
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\bin\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\bin\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.csproj.AssemblyReference.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.AssemblyInfoInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.AssemblyInfo.cs
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.csproj.CoreCompileInputs.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\refint\TPMOD4_1302213117_RegyRenandaRahman.dll
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.pdb
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\TPMOD4_1302213117_RegyRenandaRahman.genruntimeconfig.cache
+D:\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP4-KPL\TPMOD4_1302213117_RegyRenandaRahman\TPMOD4_1302213117_RegyRenandaRahman\obj\Debug\net6.0\ref\TPMOD4_1302213117_RegyRenandaRahman.dll
